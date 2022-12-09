@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "static PyFuncs.create_address():PythonFuncs.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "&quot;\(j)&quot;">
+            </PersistentString>
+            <PersistentString
+               value = "Bundle.main.resourcePath">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PyFuncs.createBtcWallet():PythonFuncs.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "obj[&quot;publicKey&quot;].description">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Wallets.init(configuration:):BitcoinPlaygroundApp.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "PyFuncs.shared.encrypt(&quot;lol&quot;)">
+            </PersistentString>
+            <PersistentString
+               value = "PyFuncs.shared.decrypt(&quot;b\&apos;gAAAAABjg41UBe6__ew6NEGPsXrVjVUkTU-iILKKnsJ2s668qGS5bHEX2yh2KMGmg_uFZk4Ksz1WcOw5XtnFVjKGnGmZSMeqgw==\&apos;&quot;)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
